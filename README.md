@@ -3,5 +3,5 @@ make
 insmod globalvar.ko
 gcc read.c -o read
 gcc write.c -o write
-./read
+/read
 ./write
